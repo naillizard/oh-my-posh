@@ -55,6 +55,6 @@ if you do `Codespaces: Rebuild Container` again, you'll be back to the latest st
 [cc]: https://www.conventionalcommits.org/en/v1.0.0/#summary
 [cc-types]: https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/.commitlintrc.yml#L23-L33
 [codespaces-badge]: https://github.com/codespaces/badge.svg
-[codespaces-link]: https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=175405157
+[codespaces-link]: https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=862123163
 [devcontainer-ext]: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 [timezones]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
